@@ -1,0 +1,35 @@
+{
+  "name": "lab-hello-ironhack",
+  "version": "1.0.0",
+  "description": "![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlebon/lab-hello-ironhack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlebon/lab-hello-ironhack/issues"
+  },
+  "homepage": "https://github.com/tlebon/lab-hello-ironhack#readme",
+  "dependencies": {
+    "and": "0.0.3",
+    "babel": "^6.23.0",
+    "i": "^0.3.6",
+    "npm": "^6.4.1",
+    "parcel-bundler": "^1.9.7",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "node-sass": "^4.9.3"
+  }
+}
